@@ -53,7 +53,7 @@ evet-ja##2022_06_13-2022_06_13-#0-0-
 hayır-nein##2022_06_13-2022_06_13-#0-0-
 değil-(ist) nicht##2022_06_13-2022_06_13-#0-0-
 pardon-Verzeihung! Pardon!##2022_06_13-2022_06_13-#0-0-
-çok şükür-zum Glück, Gott sei Dank##2022_06_13-2022_06_13-#1-0-
+çok şükür-zum Glück, Gott sei Dank##2022_06_13-2022_06_13-#0-0-
 Tanıştırayım!-Darf ich vorstellen?##2022_06_13-2022_06_13-#0-0-
 nereli?-woher (stammend)?##2022_06_13-2022_06_13-#0-0-
 değil mi?-nicht wahr?##2022_06_13-2022_06_13-#0-0-

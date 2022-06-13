@@ -18,7 +18,6 @@ public class Main {
         }
 
         //remove all files ending in - Kopie.txt from listOfFiles
-        System.out.println("listOfFiles = "+Arrays.toString(listOfFiles));
         int wp=0;
         for(int i=0; i<listOfFiles.length; i++){
             if(!listOfFiles[wp].getName().endsWith(" - Kopie.txt")){
@@ -26,14 +25,12 @@ public class Main {
             }
             listOfFiles[wp] = listOfFiles[i];
         }
-        System.out.println("listOfFiles = "+Arrays.toString(listOfFiles));
         listOfFiles = Arrays.copyOf(listOfFiles, wp+1);
-        System.out.println("listOfFiles = "+Arrays.toString(listOfFiles));
 
         while(true){
             for(File file:listOfFiles){
                 String fileName = file.getName();
-                System.out.print("\nfile: "+fileName);
+                System.out.print("file: "+fileName);
                 List<Vocab> vocabs = Main.readfile(file.getAbsolutePath());
                 if(vocabs == null){
                     System.out.println("-total NaN-todo NaN");
