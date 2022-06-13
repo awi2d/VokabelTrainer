@@ -1,0 +1,38 @@
+Praesenzendung-yor
+kleine Vokalharmonie nach a-kleine Vokalharmonie vor a
+kleine Vokalharmonie nach ı-kleine Vokalharmonie vor a
+kleine Vokalharmonie nach o-kleine Vokalharmonie vor a
+kleine Vokalharmonie nach u-kleine Vokalharmonie vor a
+kleine Vokalharmonie nach e-kleine Vokalharmonie vor e
+kleine Vokalharmonie nach i-kleine Vokalharmonie vor e
+kleine Vokalharmonie nach ö-kleine Vokalharmonie vor e
+kleine Vokalharmonie nach ü-kleine Vokalharmonie vor e
+große Vokalharmonie nach a-große Vokalharmonie vor ı
+große Vokalharmonie nach ı-große Vokalharmonie vor ı
+große Vokalharmonie nach o-große Vokalharmonie vor u
+große Vokalharmonie nach u-große Vokalharmonie vor u
+große Vokalharmonie nach e-große Vokalharmonie vor i
+große Vokalharmonie nach i-große Vokalharmonie vor i
+große Vokalharmonie nach ö-große Vokalharmonie vor ü
+große Vokalharmonie nach ü-große Vokalharmonie vor ü
+ich bin suffix-(y)Im
+du bist suffix-sIn
+er/sie/es ist suffix-null
+wir sind suffix-(y)Iz
+ihr seid suffix-sInIz
+sie sind suffix-null
+PossesivSuffix mein-nach Vokal: m, nach Konsonant: Im
+PossesivSuffix dein-nach Vokal: n, nach Konsonant: In
+PossesivSuffix sein/ihr/sein-nach Vokal: sI, nach Konsonant: I
+PossesivSuffix unser-nach Vokal: mIz, nach Konsonant: ImIz
+PossesivSuffix euer-nach Vokal: nIz, nach Konsonant: InIz
+PossesivSuffix ihr-nach Vokal: sI/lErI, nach Konsonant: I/lErI
+mein-benim
+dein-senin
+sein/ihres/sein-onun
+unsers-bizim
+euers-sizin
+ihres-onların
+Ich habe (kein) ...-(Genitiv-)Possesiv+var(yok)
+Genitivendung-(n)In
+Genitiv_possessiv_Verbindung-(n)In...(s)I

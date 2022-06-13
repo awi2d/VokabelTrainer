@@ -1,0 +1,117 @@
+su, suyu-Wasser
+muz-Banane
+patates-Kartoffel
+soğan-Zwibel
+peynir-Käse
+süt-Milch
+et-Fleisch
+domates-Tomate
+makarna-Nudeln
+yağ-Öl
+yoğurt-yoğurdu-Joghurt
+tavuk, tavuğu-Hähnchen
+havuç, havucu-Möhre, Karotte
+elma-Apfel
+ekmek, ekmeği-Brot
+yumurta-Ei
+biber-Paprika
+portakal-Orange
+balık, balığı-Fisch
+tereyağı-Butter
+limon-Zitrone
+zeytinyağı-Olivenöl
+meyve-Obst
+sebze-Gemüse
+çikolata-Schokolade
+_I, _E tercih etmek-bevorzugen
+hiçbir zaman +Verneinung-nie(mals)
+_I sevmek-lieben, mögen, gern haben
+en çok-am meisten
+en az-am wenigsten, mindestens
+daha çok-mehr, eher
+daha az-weniger
+pazar-Wochenmarkt
+süpermarket-Supermarkt
+fırın-Bäckerei
+kasap, kasabı-Fleischer(ei), Metzger
+satıcı-Verkäufer
+arzu-Wunsch
+yarım kilo-halbes kilo
+Başka bir şey-Noch etwas anderes? Außerdem?
+lazım-nötig, notwendig
+efendim-meine Dame, mein Herr
+taze-frisch
+... ister misiniz?-Möchten Sie ...?
+Kilosu ne kadar?-Was kostet das Kilo?
+pahalı-teuer
+hepsi-alles zusammen, alle(s)
+Hepsi kaç lira?-Was macht alles zusammen?, Wie viel kostet das alles?
+Hepsi bu kadar.-Das ist alles.
+Heyırlı işler!-Wunsch, etwa: \"gute Geschäfte!\" (beim Verlassen eines Geschäfts)
+yürümek-(zu Fuß) gehen, laufen
+litre-Liter
+tane-Stück
+paket-Paket
+müşteri-Kunde
+manav-Obst_ und Gemüsehändler(in)
+kitapçı-Buchhändler(in), Buchhandlung
+pastane-Konditorei
+bakkal-Krämer, kleines Lebensmittelgeschäft
+her şey-alles
+yakınlarda-in der Nähe
+orada-dort
+ayakkabı mağazası-Schuhgeschäft
+çay bahçesi-Teegarten
+giyim-(Be)Kleidung
+giyim mağazası-Modegeschäft
+alışveriş merkezi-Einkaufszentrum
+merkez-Zentrum
+makine-Maschine
+son-Ende
+diş-Zahn
+fırça-Bürste
+okul servisi-Fahrdienst für Schüler
+_DEn memnun-zufrieden
+ders-Unterricht
+ilaç, ilacı-Medikament
+pantolon-Hose
+_E rastlamak, rastlıyor-jdm. begegnen
+şurada-da (drüben)
+oraya-dorthin
+_E bakmak-(an_, hin_)sehen, _schauen
+yorulmak-ermüden, müde werden
+fikir, fikri-Idee
+iyi fikir!-Gute Idee!
+hadi (haydi)-los! auf!
+Gidelim!-Lass uns gehen!, Gehen wir!
+sarı-gelb
+yeşil-grün
+kırmızı-rot
+siyah-schwarz
+mavi-blau
+pembe-rose, pink
+turuncu/portakal rengi-orangfarben
+bej-beige
+gri-grau
+kahverengi-braun
+beyaz-weiß
+koyu-dunkel
+açık-hier: hell; offen, klar
+tişört-T_Shirt
+renk, rengi-Farbe
+etek, eteği-Rock
+gömlek, gömleği-Hemd
+elbise-Kleid
+ceket-Jacke
+çanta-(Hand)Tasche
+kazak, kazağı-Pullover
+bluz-Bluse
+kıyafet-Kleidung
+palto-Wintermantel
+manto-(Damen)Mantel
+fena değil-nicht schlecht
+mesela-zum Beispiel
+Öyle olsun.-So soll es sein.
+Yaşasın!-Hurra!
+_I tanımak-kennen
+kimi?-wen?

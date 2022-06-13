@@ -1,0 +1,63 @@
+iyi-gut#
+gün-tag#
+iyi günler-guten Tag/schönen Tag noch#
+merhaba-guten Tag, hallo#
+Adınız ne?-Wie heißen Sie?#
+ne?-was?#
+adım-mein Name (ist)#
+benim adım-mein Name (ist)/ich heiße#
+iyi akşamlar-guten Abend/schönen Abend noch#
+ben-ich#
+hoşça kalın-machen Sie's gut!#
+görüşürüz-wir sehen uns/man sieht sich#
+görüşmek üzere-auf Wiedersehen#
+bir şey değil-bitte, keine Ursache#
+şey-Sache, Ding#
+teşekkürler-danke#
+sağ olun-danke (ihnen)#
+Adın ne?-Wie heißt du?#
+hoşça kal-machs gut#
+iyi geceler-gute Nacht#
+gece-Nacht, nachts#
+f. Vorname+Hanım-Frau (höfliche Anrede)#
+m. Vorname+Bey-Herr (höfliche Anrede)#
+Nasılsınız-Wie geht es ihnen?#
+Iyiyim.-Es geht mir gut.#
+teşekkür ederim-(ich) danke#
+Nasılsın-Wie geht es dir?#
+sağ ol-danke (dir)#
+selam-Gruß#
+Selam!-Grüß dich!/Hallo!#
+N'aber (Ne haber)?-Wie gehts?/Was gibts?#
+Iyilik.-Gut./Gutes.#
+senden-von dir#
+benden-von mir#
+haydi-also, nun, los#
+tamam-einverstanden, in Ordnung#
+Rus-Russe/Russin#
+Alman-Deutsche(r)#
+Ispanyol-Spanier(in)#
+Ingiliz-Engländer(in)#
+Çek-Tscheche/Tschechin#
+Yunan-Grieche/Griechin#
+Amerikalı-Amerikaner(in)#
+Polonyalı-Pole/Polin#
+Türk-Türke/Türkin#
+Fransız-Franzose/Französin#
+Isviçreli-Schweizer(in)#
+Italyan-Italiener(in)#
+Avusturyalı-Österreicher(in)#
+Tunuslu-Tunesier(in)#
+mI-Fragepartikel#
+evet-ja#
+hayır-nein#
+değil-(ist) nicht#
+pardon-Verzeihung! Pardon!#
+çok şükür-zum Glück, Gott sei Dank#
+Tanıştırayım!-Darf ich vorstellen?#
+nereli?-woher (stammend)?#
+değil mi?-nicht wahr?#
+Istanbullu-Istanbuler(in), aus Istanbul (stammend)#
+ise-hingegen, dagegen#
+Nerelisin?-Woher stammst/kommst du?#
+Nerelisiniz?-Woher kommen Sie?#

@@ -1,0 +1,150 @@
+Arap, Arabı-Araber(in)#
+Japon-Japaner(in)#
+Çinli-Chinese(in)#
+Norveçli-Norweger(in)#
+Bulgar-Bulgare(in)#
+Brezilyalı-Brasilianer(in)#
+Iranlı-Iraner(in), Perser(in)#
+Isveçli-Schwede(in)#
+Japonca-Japanisch (Sprache)#
+Yunanca-Griechisch (Sprache)#
+Ispanyolca-Spanisch (Sprache)#
+Çince-Chinesisch (Sprache)#
+Almanca-Deutsch (Sprache)#
+Lehçe-dialekt, Polnisch (Sprache)#
+Ingilizce-Englisch (Sprache)#
+Farsça-Persisch (Sprache)#
+Italyanca-Italienisch (Sprache)#
+Isveççe-Schwedisch (Sprache)#
+Portekizce-Portugiesisch (Sprache)#
+Arapça-Arabisch (Sprache)#
+Norveççe-Norwegisch (Sprache)#
+Rusça-Russisch (Sprache)#
+Bulgarca-Bulgarisch (Sprache)#
+Fransızca-Französisch (Sprache)#
+dil-Sprache, Zunge#
+kişi-Person#
+adam-Mann, Mensch#
+başka-andere(r)#
+Tebrikler!-Gratulation!#
+biraz-ein wenig#
+aynı zamanda-gleichzeitig#
+az-wenig#
+çok az-sehr wenig#
+hiç Verneinung-überhaupt nicht#
+burada-hier#
+müze-Museum#
+rehber-Reiseführer#
+rehberlik, rehberliği-Tätigkeit eines Reiseführers#
+o zaman-(wenn) dann, also#
+zevkli-vergnüglich#
+her zaman-immer#
+turist-Tourist#
+ayrıca-außerdem#
+daha iyi-(noch) besser#
+tanışalım-lass uns kennenlernen#
+uyruk, uyruğu-Staatsangehörigkeit#
+nasıl?-wie?#
+hangi?-welche(r)?#
+sekreterlik, sekreterliği-Arbeit als Sekretär(in)#
+doktorluk, doktorluğu-Arbeit  als Artzt#
+avukatlık, avukatlığı-Arbeit als Anwalt#
+kuaförlük, kuaförlüğü-Arbeit als Friseur#
+sıkıcı-langweilig#
+zor-schwierig#
+yorucu-anstrengend#
+enteresan, ilginç, ilginci-interessant#
+önemli-wichtig#
+eğlenceli-lustig, unterhaltsam#
+stresli-stressig#
+kolay-leicht einfach#
+gerçi-zwar#
+ama-aber#
+aslında-eigentlich#
+bazen-manchmal#
+bence-meiner Meinung nach#
+sence-deiner Meinung nach#
+bizce-unserer Meinung nach#
+sizce-eurer/Ihrer Meinung nach#
+boş zaman-Freizeit#
+hafta sonu-(am) Wochenende#
+tiyatro-Theater#
+gitmek, gidiyor-gehen#
+dans etmek, ediyor-tanzen#
+alışveriş yapmak-einkaufen#
+sinema-Kino#
+bar-Bar#
+konser-Konzert#
+nadiren-selten#
+sık sık-oft#
+her hafta sonu-jedes Wochenende#
+ara sıra/arada sırada-ab und zu#
+genellikle, genelde-im Allgemeinen#
+etmek, ediyor-tun (Hilfsverb)#
+nereye?-wohin#
+kime?-zu wem? wem?#
+bana-zu mir, mir#
+sana-zu dir, dir#
+ona-zu ihm/ihr, ihm/ihr#
+size-zu euch/ihnen#
+onlara-zu ihnen, ihnen#
+sokak, sokağı-Straße#
+bugün-heute#
+büro-Büro#
+şimdi-jetzt#
+Ne var ne yok?-Wie gehts?#
+peki-nun, und, okay#
+böyle-so, auf diese Art#
+Nereye böyle?- Wohin des Weges?#
+artık-jetzt, nunmehr#
+yaşamak, yaşıyor-leben#
+Iyi yolculuklar!-Gute Reise#
+yolculuk, yolculuğu-Reise#
+canım-mein(e) Liebe(r)#
+haftaya-nächste Woche#
+Haftaya görürüşürüz-Bis nächste Woche!#
+inşallah-hoffentlich (so Gott will)#
+ile, _(y)IE-mit#
+nereden?-woher#
+gelmek-kommen#
+hasta-krank#
+Geçmiş olsun!-Gute Besserung!#
+uyumak-schlafen#
+tekrar-wieder, erneut#
+eczane-Apotheke#
+kuaför-Friseur#
+kafeterya-Cafeteria#
+alışveriş-Einkauf#
+göndermek-schicken#
+şu an(da)-im Moment#
+kalabalık, kalabalığı-voll, Menschenmenge#
+sabah-Morgen#
+her sabah-jeden Morgen#
+erken-früh#
+_DEn çıkmak-hinausgehen, rausgehen#
+akşamları, hafta sonları-abends#
+oldukça-ziemlich#
+geç-spät#
+_E dönmek-zurückkehren nach#
+dinlenmek-ausruhen#
+beraber-zusammen, gemeinsam#
+hayat-Leben#
+sempatik, sempatiği-sympathisch, nett#
+Hayat nasıl gidiyor?-Wie läuft es?#
+yazmak-schreiben#
+lütfen-bitte#
+kart-Karte#
+beklemek, bekliyor-warten#
+sevgi-Liebe#
+selam ve sevgiler-liebe Grüße#
+sabahları-morgens#
+öğlen-(am) Mittag#
+öğlenleri-mittags#
+akşam-(am) Abend#
+nasıl bir?-was für ein?#
+kadın-Frau#
+insan-Mensch#
+için-für#
+benim için-für mich#
+senin için-für dich#
+kasaba-Kleinstadt#

@@ -1,0 +1,95 @@
+aile-Famile#
+anneanne-Großmutter mütterlicherseits.#
+büyükanne-Großmutter#
+dede-Großvater, Opa#
+büyükbaba-Großvater#
+babaanne-Großmutter (väterlicherseits)#
+anne-Mutter#
+baba-Vater#
+kız-Tochter, Mädchen#
+oğul, oğlu-Sohn#
+çocuk, çocuğu-Kind#
+torun-Enkelkind#
+işte-hier, das ist#
+doğru-richtig#
+yanlış-falsch#
+lise-Gymnasium, oberstufe#
+eş-Eheman, Ehefrau#
+okumak-lesen, studieren, zur Schule gehen#
+kahvaltı yapmak-frühstücken#
+büyük, büyüğu-groß#
+bizim-unser(e)#
+ilkokul-Grundschule#
+fotoğraf-Foto#
+şirket, firma-Firma#
+emekli-Rentner, pensioniert#
+de/da-auch#
+kardeş-Bruder, Schwester, Geschwisterkind#
+gül-Rose#
+ağabey, abi-großer Bruder#
+abla-große Schwester#
+kız kardeş-kleine Schwester#
+erkek kardeş-kleiner Bruder#
+hukuk-Jura, Recht(swissenschaften)#
+küçük-klein#
+Senin kardeşin var mı?-Hast du Geschwister?#
+hâlâ-(immer) noch#
+burası-das hier#
+yer-Ort, Platz, Stelle#
+öyle-so#
+öyle mi?-wirklich? ach so?#
+numara-Nummer#
+özür dilerim-Entschuldigung, tut mir leid#
+buyurun-(hier) bitte#
+oğlan-junge#
+yaş-Alter#
+... yaşında-... Jahre alt#
+Ne güzel!-Wie schön!#
+Allah bağışlasın!-Gott möge dir/ihnen (die Tochter) erhalten.#
+maşallah-wunderbar, großartig (Spruch gegen den bösen Blick)#
+tatlı-süs, Süßigkeit#
+Kaç yaşındasın?-Wie alt bist du?#
+gülmek-lachen#
+çay-Tee#
+kahve-Kaffe#
+içmek-trinken#
+gitar-Gitarre#
+çalmak-spielen (instrument)#
+spor yapmak-Sport machen#
+konuşmak-sprechen, sich unterhalten#
+yemek pişirmek-kochen#
+neşeli-fröhlich#
+kedi-Katze#
+ev hanımı-Hausfrau#
+söylemek, söylüyor-sagen#
+şarkı söylemek-singen#
+istemek, istiyor-möchten, wollen#
+çünkü-denn#
+futbol-Fußball#
+oynamak, oynuyor-spielen#
+tabii-natürlich, selbstverständlich#
+yemek, yiyor-essen#
+sadece-nur#
+kilo almak-zunehmen#
+anlamak, anlıyor-verstehen#
+neden?-warum?#
+evcil hayvan-Haustier#
+köpek, köpeği-Hund#
+top-Ball#
+basketbol-Basketball#
+tenis-Tennis#
+piyano-Klavier#
+saksafon-Saxophon#
+çello-Cello#
+izlemek, izliyor-verfolgen, folgen#
+televizyon izlemek-fernsehen#
+müzik dinlemek, dinliyor-Musik hören#
+televizyon-Fernseher#
+radyo-Radio#
+laptop, laptobu-Laptop#
+bisiklet-Fahrrad#
+motosiklet-Motorrad#
+arab-Auto#
+ev-Haus, Wohnung#
+bahç-Garten#
+ortaokul-Mittelschule, Sekundarschule#

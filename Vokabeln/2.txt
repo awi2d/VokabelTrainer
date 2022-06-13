@@ -1,0 +1,75 @@
+milliyet-Nationalität#
+ülke-Land#
+Ingiltere-England#
+Almanya-Deutschland#
+Tunus-Tunesien#
+Polonya-Polen#
+Ispanya-Spanien#
+Rusya-Russland#
+Italya-Italien#
+Fransa-Frankreich#
+Türkiye-Türkei#
+Amerika-Amerika#
+Isviçre-Schweiz#
+nerede?-wo?#
+Nerede oturuyor?-Wo wohnt er/sie?#
+oturmak-wohnen, sitzen#
+Ne iş yapıyorsunuz?-Was machen sie Beruflich?#
+Ne iş yapıyorsun?-Was machst du Beruflich?#
+öğretmen-Lehrer(in)#
+öğrenci-Schüler(in), Student(in)#
+bekâr-Ledig#
+evli-verheiratet#
+soyadı-Nachnahme#
+soyadım-mein Nachnahme#
+bu-dieser, dieses(s)#
+okul-Schule#
+olarak-als#
+çalışmak-arbeiten, lernen#
+... olarak çalışıyorum-ich arbeite als ...#
+avukat-Rechtsanwalt#
+Hoş geldiniz!-Herzlich willkommen!#
+Hoş bulduk!-Antwort auf Hoş geldiniz!, danke#
+bilmek-wissen, kennen, können#
+Biliyor musunuz?-Wissen Sie?#
+hemşire-Krankenschwester#
+mühendis-Ingenieur#
+aşçi-Koch, Köchin#
+memur-Beamter, Angestellter#
+banka-Bank (Geldinstitut)#
+üniversite-Universität#
+hastane-Krankenhaus#
+restoran-Restaurant#
+lokanta-Restaurant, Gaststätte#
+postane-Postamt#
+dönerci-Dönerverkäufer#
+postacı-Briefträger(in)#
+gözlük, gözlüğü-Brille#
+gözlükçü-Optiker#
+futbolcu-Fußballspieler#
+meslek, mesleği-Beruf#
+Mesleğiniz ne?- Was sind Sie von Beruf?#
+yapmak-machen, tun#
+kaç?-wie viel?, welche#
+var-es gibt#
+kitap, kitabı-Buch#
+kalem-Stift#
+defter-Heft#
+sözlük, sözlüğü-Wörterbuch#
+kimde?-bei wem?#
+bende-bei mir#
+sende-bei dir#
+maalesef-leider#
+yok-es gibt nicht#
+sınıf-Klasse, Klassenraum#
+bilgisayar-Computer#
+şehir, şehri-Stadt#
+yeni-neu#
+yabancı-ausländisch, Ausländer#
+Türkçe-Türkisch (Sprache)#
+öğrenmek-(er)lernen#
+müdür-Direktor, Leiter#
+masa-Tisch#
+tahta-Tafel#
+resim, resmi-Bild, Zeichnung#
+saat, saati-Uhr#
