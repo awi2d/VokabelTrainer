@@ -1,63 +1,63 @@
-iyi-gut#
-gün-tag#
-iyi günler-guten Tag/schönen Tag noch#
-merhaba-guten Tag, hallo#
-Adınız ne?-Wie heißen Sie?#
-ne?-was?#
-adım-mein Name (ist)#
-benim adım-mein Name (ist)/ich heiße#
-iyi akşamlar-guten Abend/schönen Abend noch#
-ben-ich#
-hoşça kalın-machen Sie's gut!#
-görüşürüz-wir sehen uns/man sieht sich#
-görüşmek üzere-auf Wiedersehen#
-bir şey değil-bitte, keine Ursache#
-şey-Sache, Ding#
-teşekkürler-danke#
-sağ olun-danke (ihnen)#
-Adın ne?-Wie heißt du?#
-hoşça kal-machs gut#
-iyi geceler-gute Nacht#
-gece-Nacht, nachts#
-f. Vorname+Hanım-Frau (höfliche Anrede)#
-m. Vorname+Bey-Herr (höfliche Anrede)#
-Nasılsınız-Wie geht es ihnen?#
-Iyiyim.-Es geht mir gut.#
-teşekkür ederim-(ich) danke#
-Nasılsın-Wie geht es dir?#
-sağ ol-danke (dir)#
-selam-Gruß#
-Selam!-Grüß dich!/Hallo!#
-N'aber (Ne haber)?-Wie gehts?/Was gibts?#
-Iyilik.-Gut./Gutes.#
-senden-von dir#
-benden-von mir#
-haydi-also, nun, los#
-tamam-einverstanden, in Ordnung#
-Rus-Russe/Russin#
-Alman-Deutsche(r)#
-Ispanyol-Spanier(in)#
-Ingiliz-Engländer(in)#
-Çek-Tscheche/Tschechin#
-Yunan-Grieche/Griechin#
-Amerikalı-Amerikaner(in)#
-Polonyalı-Pole/Polin#
-Türk-Türke/Türkin#
-Fransız-Franzose/Französin#
-Isviçreli-Schweizer(in)#
-Italyan-Italiener(in)#
-Avusturyalı-Österreicher(in)#
-Tunuslu-Tunesier(in)#
-mI-Fragepartikel#
-evet-ja#
-hayır-nein#
-değil-(ist) nicht#
-pardon-Verzeihung! Pardon!#
-çok şükür-zum Glück, Gott sei Dank#
-Tanıştırayım!-Darf ich vorstellen?#
-nereli?-woher (stammend)?#
-değil mi?-nicht wahr?#
-Istanbullu-Istanbuler(in), aus Istanbul (stammend)#
-ise-hingegen, dagegen#
-Nerelisin?-Woher stammst/kommst du?#
-Nerelisiniz?-Woher kommen Sie?#
+iyi-gut##2022_06_13-2022_06_13-#0-0-
+gün-tag##2022_06_13-2022_06_13-#0-0-
+iyi günler-guten Tag/schönen Tag noch##2022_06_13-2022_06_13-#0-0-
+merhaba-guten Tag, hallo##2022_06_13-2022_06_13-#0-0-
+Adınız ne?-Wie heißen Sie?##2022_06_13-2022_06_13-#0-0-
+ne?-was?##2022_06_13-2022_06_13-#0-0-
+adım-mein Name (ist)##2022_06_13-2022_06_13-#0-0-
+benim adım-mein Name (ist)/ich heiße##2022_06_13-2022_06_13-#0-0-
+iyi akşamlar-guten Abend/schönen Abend noch##2022_06_13-2022_06_13-#0-0-
+ben-ich##2022_06_13-2022_06_13-#0-0-
+hoşça kalın-machen Sie's gut!##2022_06_13-2022_06_13-#0-0-
+görüşürüz-wir sehen uns/man sieht sich##2022_06_13-2022_06_13-#0-0-
+görüşmek üzere-auf Wiedersehen##2022_06_13-2022_06_13-#0-0-
+bir şey değil-bitte, keine Ursache##2022_06_13-2022_06_13-#0-0-
+şey-Sache, Ding##2022_06_13-2022_06_13-#0-0-
+teşekkürler-danke##2022_06_13-2022_06_13-#0-0-
+sağ olun-danke (ihnen)##2022_06_13-2022_06_13-#0-0-
+Adın ne?-Wie heißt du?##2022_06_13-2022_06_13-#0-0-
+hoşça kal-machs gut##2022_06_13-2022_06_13-#0-0-
+iyi geceler-gute Nacht##2022_06_13-2022_06_13-#0-0-
+gece-Nacht, nachts##2022_06_13-2022_06_13-#0-0-
+f. Vorname+Hanım-Frau (höfliche Anrede)##2022_06_13-2022_06_13-#0-0-
+m. Vorname+Bey-Herr (höfliche Anrede)##2022_06_13-2022_06_13-#0-0-
+Nasılsınız-Wie geht es ihnen?##2022_06_13-2022_06_13-#0-0-
+Iyiyim.-Es geht mir gut.##2022_06_13-2022_06_13-#0-0-
+teşekkür ederim-(ich) danke##2022_06_13-2022_06_13-#0-0-
+Nasılsın-Wie geht es dir?##2022_06_13-2022_06_13-#0-0-
+sağ ol-danke (dir)##2022_06_13-2022_06_13-#0-0-
+selam-Gruß##2022_06_13-2022_06_13-#0-0-
+Selam!-Grüß dich!/Hallo!##2022_06_13-2022_06_13-#0-0-
+N'aber (Ne haber)?-Wie gehts?/Was gibts?##2022_06_13-2022_06_13-#0-0-
+Iyilik.-Gut./Gutes.##2022_06_13-2022_06_13-#0-0-
+senden-von dir##2022_06_13-2022_06_13-#0-0-
+benden-von mir##2022_06_13-2022_06_13-#0-0-
+haydi-also, nun, los##2022_06_13-2022_06_13-#0-0-
+tamam-einverstanden, in Ordnung##2022_06_13-2022_06_13-#0-0-
+Rus-Russe/Russin##2022_06_13-2022_06_13-#0-0-
+Alman-Deutsche(r)##2022_06_13-2022_06_13-#0-0-
+Ispanyol-Spanier(in)##2022_06_13-2022_06_13-#0-0-
+Ingiliz-Engländer(in)##2022_06_13-2022_06_13-#0-0-
+Çek-Tscheche/Tschechin##2022_06_13-2022_06_13-#0-0-
+Yunan-Grieche/Griechin##2022_06_13-2022_06_13-#0-0-
+Amerikalı-Amerikaner(in)##2022_06_13-2022_06_13-#0-0-
+Polonyalı-Pole/Polin##2022_06_13-2022_06_13-#0-0-
+Türk-Türke/Türkin##2022_06_13-2022_06_13-#0-0-
+Fransız-Franzose/Französin##2022_06_13-2022_06_13-#0-0-
+Isviçreli-Schweizer(in)##2022_06_13-2022_06_13-#0-0-
+Italyan-Italiener(in)##2022_06_13-2022_06_13-#0-0-
+Avusturyalı-Österreicher(in)##2022_06_13-2022_06_13-#0-0-
+Tunuslu-Tunesier(in)##2022_06_13-2022_06_13-#0-0-
+mI-Fragepartikel##2022_06_13-2022_06_13-#0-0-
+evet-ja##2022_06_13-2022_06_13-#0-0-
+hayır-nein##2022_06_13-2022_06_13-#0-0-
+değil-(ist) nicht##2022_06_13-2022_06_13-#0-0-
+pardon-Verzeihung! Pardon!##2022_06_13-2022_06_13-#0-0-
+çok şükür-zum Glück, Gott sei Dank##2022_06_13-2022_06_13-#1-0-
+Tanıştırayım!-Darf ich vorstellen?##2022_06_13-2022_06_13-#0-0-
+nereli?-woher (stammend)?##2022_06_13-2022_06_13-#0-0-
+değil mi?-nicht wahr?##2022_06_13-2022_06_13-#0-0-
+Istanbullu-Istanbuler(in), aus Istanbul (stammend)##2022_06_13-2022_06_13-#0-0-
+ise-hingegen, dagegen##2022_06_13-2022_06_13-#0-0-
+Nerelisin?-Woher stammst/kommst du?##2022_06_13-2022_06_13-#0-0-
+Nerelisiniz?-Woher kommen Sie?##2022_06_13-2022_06_13-#0-0-

@@ -36,12 +36,11 @@ public class Main {
                 System.out.print("\nfile: "+fileName);
                 List<Vocab> vocabs = Main.readfile(file.getAbsolutePath());
                 if(vocabs == null){
-                    System.out.print("-total NaN-todo NaN");
+                    System.out.println("-total NaN-todo NaN");
                 }else{
-                    System.out.print("-total "+vocabs.size()+"-todo "+Main.getTodo(vocabs).size());
+                    System.out.println("-total "+vocabs.size()+"-todo "+Main.getTodo(vocabs).size());
                 }
             }
-            System.out.println("");
 
             Main.in = new Scanner(System.in);
             in.useDelimiter("\n");
@@ -61,7 +60,12 @@ public class Main {
                 int editDist = Integer.parseInt(cmdspplit[1]);
                 for(int i=2; i<cmdspplit.length; i++){
                     String filename = folder.getAbsolutePath() + "\\" + cmdspplit[i] + ".txt";
-                    vocabs.addAll(Main.readfile(filename));
+                    List<Vocab> tmp = Main.readfile(filename);
+                    if(tmp!=null){
+                        vocabs.addAll(tmp);
+                    }else{
+                        System.out.println("File "+filename+" contained no Vocabs");
+                    }
                 }
                 Main.printDuplicates(vocabs, editDist, false);
             }
@@ -74,7 +78,6 @@ public class Main {
                         Vocab.Tags tag = Vocab.Tags.valueOf(cmdspplit[2]);
                         LinkedList<Vocab> voctag = new LinkedList<>();
                         for(File file:listOfFiles){
-                            String fileName = file.getName();
                             List<Vocab> vocabs = Main.readfile(file.getAbsolutePath());
                             if(vocabs != null) {
                                 for (Vocab voc : vocabs) {
@@ -100,7 +103,7 @@ public class Main {
         return distance(a, b, 0, 0);
     }
 
-    private static class Tupel{
+    public static class Tupel{
         public final String w1;
         public final int w1pos;
         public final String w2;
@@ -156,7 +159,7 @@ public class Main {
         if (i == s1.length()) {
             return s2.length() - j;
         }
-        int r = -1;
+        int r;
         if (s1.charAt(i) == s2.charAt(j)){
             r = distance(s1, s2, i + 1, j + 1);
         }else{
@@ -278,7 +281,7 @@ public class Main {
         System.out.println("finished all Vocabs from "+filename+" for today");
     }
 
-    public static List<Vocab> printDuplicates(List<Vocab> all, int editDist, boolean doEdit){
+    public static void printDuplicates(List<Vocab> all, int editDist, boolean doEdit){
         //merges duplicate Vocabs
         for (int i=0; i+1<all.size(); i++) {
             for (int ii=i+1; ii<all.size(); ii++) {
@@ -286,7 +289,7 @@ public class Main {
                 Vocab v1 = all.get(ii);
                 for(int r=0; r<v0.relation.length; r++) {
                     if(Main.editdist(v0.relation[r], v1.relation[r]) < editDist) {
-                        System.out.println("duplicate Vocab: relation["+r+"] hat edit dist "+Main.editdist(v0.relation[r], v1.relation[r])+"\n" + v0.toString() + "#" + v0.filename + "\n" + v1.toString() + "#" + v1.filename + "\n");
+                        System.out.println("duplicate Vocab: relation["+r+"] hat edit dist "+Main.editdist(v0.relation[r], v1.relation[r])+"\n" + v0 + "#" + v0.filename + "\n" + v1 + "#" + v1.filename + "\n");
                         if(doEdit) {
                             all.remove(v0);
                             all.remove(v1);
@@ -311,7 +314,6 @@ public class Main {
             }
         }
 
-        return all;
     }
 
     public static void resetfile(String filename){
@@ -362,7 +364,7 @@ public class Main {
         return todolist;
     }
 
-    public static Map<String, List<Vocab>> filecache = new HashMap<String, List<Vocab>>();
+    public static Map<String, List<Vocab>> filecache = new HashMap<>();
     private static List<Vocab> readfile(String filename){
         if(Main.filecache.containsKey(filename)){
             return Main.filecache.get(filename);
